@@ -1,0 +1,38 @@
+{
+  "shifts": 180,
+  "availability": 90.2,
+  "performance": 94.3,
+  "quality": 97.4,
+  "OEE": 82.8,
+  "downtime_share_percent": {
+    "Tool change": 45.5,
+    "Material shortage": 28.5,
+    "Maintenance": 14.4,
+    "Quality hold": 11.6
+  },
+  "downtime_hours_total": 140.7,
+  "scrap_share_percent": {
+    "Flash": 48.6,
+    "Short shot": 31.2,
+    "Contamination": 20.3
+  },
+  "scrap_rate_percent": 2.62,
+  "material_balance_kg": {
+    "input": 3289,
+    "good": 3091,
+    "scrap": 83,
+    "runner_and_purge_loss": 115
+  },
+  "material_yield_percent": 94.0,
+  "weekly_OEE": {
+    "1": 83.1,
+    "2": 82.9,
+    "3": 82.7,
+    "4": 82.6
+  },
+  "press_OEE": {
+    "P1": 82.5,
+    "P2": 81.9,
+    "P3": 84.1
+  }
+}
